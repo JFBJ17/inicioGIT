@@ -1,0 +1,11 @@
+1. https://www.jetbrains.com/webstorm/guide/tutorials/react_typescript_tdd/class_props/
+2. https://fettblog.eu/typescript-react/events/
+3. https://www.carlrippon.com/React-event-handlers-with-typescript/
+4. https://cinthialandia.com/es/blog/props/
+5. https://code.tutsplus.com/es/tutorials/typescript-for-beginners-basic-data-types--cms-29438
+6. http://javadesde0.com/tipos-de-datos-en-typescript/
+7. https://www.pluralsight.com/guides/react-router-typescript
+8. https://www.codegrepper.com/code-examples/shell/how+to+install+react+router+dom+with+typescript
+9. https://stackoverflow.com/questions/47561848/property-value-does-not-exist-on-type-readonly
+10. https://www.it-swarm-es.com/es/typescript/como-puedo-declarar-una-variable-global-en-angular-2mecanografiado/823356588/#:~:text=No%20conozco%20la%20mejor%20manera,GlobalVariable%20%3D%20%22what%20ever!%22
+11. https://stackoverflow.com/questions/51152417/react-with-typescript-property-push-does-not-exist-on-type-history
